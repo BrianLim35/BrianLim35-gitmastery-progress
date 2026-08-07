@@ -43,5 +43,14 @@
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786094933.243694,
+    "completed_at": 1786094934.538756,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
